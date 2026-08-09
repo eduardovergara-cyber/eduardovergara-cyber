@@ -39,8 +39,6 @@ Construyo mi portafolio técnico resolviendo máquinas, documentando el proceso 
 - **Cisco Networking Academy — Introduction to Cybersecurity** — en progreso (gratuito)
 - Próximas certificaciones planificadas una vez tenga ingreso estable: eJPT / PNPT, y más adelante OSCP
 
-*(Nota: no incluyo aquí certificaciones que no he empezado o que dejé de ser viables por costo — prefiero un perfil honesto y en construcción real a uno que liste aspiraciones como logros.)*
-
 ---
 
 ## 📚 Portafolio
@@ -53,5 +51,5 @@ Proyectos, writeups y análisis disponibles en este repositorio:
 ## 📫 Contacto
 
 - **LinkedIn:** [linkedin.com/in/eduardo-vergara-ciberseguridad](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad)
-- **Email:** eduardovergara0403@gmail.com
+- **Email:** vergaraeduardo343@gmail.com
 - **Ubicación:** Santiago, Chile
