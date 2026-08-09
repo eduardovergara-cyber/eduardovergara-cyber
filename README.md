@@ -1,41 +1,51 @@
 # 👋 Hola, soy Eduardo Vergara
 
-Estudiante de **Ingeniería en Ciberseguridad** en INACAP (3er semestre), con especialización definida en **Gobernanza, Riesgo y Cumplimiento (GRC)**.
-
-Este es mi espacio profesional donde construyo mi portafolio académico y técnico, mientras avanzo en mi formación y certificaciones.
+Estudiante de **Ingeniería en Ciberseguridad** en INACAP (2° año), enfocado en **Seguridad Ofensiva y Pentesting**.
+Construyo mi portafolio técnico resolviendo máquinas, documentando el proceso y aprendiendo en público mientras avanzo en mi formación.
 
 ---
 
 ## 🎯 Áreas de enfoque
 
-- **Frameworks:** ISO/IEC 27001:2022, NIST CSF, Controles CIS
-- **Normativa chilena:** Ley Marco 21.459, Ley 19.628, RAN 20-10 CMF
-- **Internacional:** RGPD (Reglamento Europeo de Protección de Datos)
-- **Gestión de riesgos:** Análisis cualitativo y cuantitativo, matriz de riesgos, tratamiento del riesgo
-- **Continuidad de negocio:** BCP, DRP, BIA, RTO/RPO
-
----
-
-## 🎓 Certificaciones
-
-- **ISC2 Certified in Cybersecurity (CC)** — En proceso · obtención prevista mayo 2026
-- **ISO/IEC 27001 Foundation** — Planificada julio 2026
-- **CompTIA Security+** — Planificada segundo semestre 2026
+- **Pentesting web e infraestructura:** metodología de enumeración, explotación de configuraciones inseguras, escalada de privilegios
+- **Fundamentos de redes:** TCP/IP, subneteo, modelo OSI
+- **Sistemas Linux:** administración y uso ofensivo (Parrot OS, Ubuntu)
+- **Contexto complementario:** nociones de gobernanza y cumplimiento (ISO/IEC 27001, NIST CSF) — útiles para entender el impacto de negocio detrás de una vulnerabilidad, no mi área de especialización
 
 ---
 
 ## 🛠️ Stack técnico
 
 - **Sistemas:** Linux (Parrot OS, Ubuntu), Windows
-- **Cloud:** AWS básico (EC2, gestión de instancias, security groups)
-- **Programación:** Python (intermedio), SQL (básico), Bash (básico)
-- **Herramientas:** Git, VirtualBox, Microsoft Office, Google Workspace
+- **Redes y seguridad:** Nmap, Wireshark, TCP/IP, subneteo
+- **Programación y scripting:** Python (intermedio), Bash (básico), SQL, HTML
+- **Bases de datos:** SQL, MongoDB
+- **Cloud:** AWS básico (EC2, gestión de instancias)
+- **Otras herramientas:** Git, VirtualBox
+
+---
+
+## 🚩 En progreso
+
+- **HackTheBox** — resolviendo la ruta Starting Point (Fawn y Cap completadas)
+- Escribiendo writeups de cada máquina en este repositorio a medida que avanzo
+- Próximo objetivo: completar Starting Point Tier 1 y 2, luego máquinas Easy con foco en Active Directory
+
+---
+
+## 🎓 Formación y certificaciones
+
+- **Ingeniería en Ciberseguridad (en curso)** — INACAP, 2024-actualidad. Título Técnico en Analista Programador en trámite (práctica profesional pendiente)
+- **Cisco Networking Academy — Introduction to Cybersecurity** — en progreso (gratuito)
+- Próximas certificaciones planificadas una vez tenga ingreso estable: eJPT / PNPT, y más adelante OSCP
+
+*(Nota: no incluyo aquí certificaciones que no he empezado o que dejé de ser viables por costo — prefiero un perfil honesto y en construcción real a uno que liste aspiraciones como logros.)*
 
 ---
 
 ## 📚 Portafolio
 
-Mis proyectos, informes y análisis de casos disponibles en el repositorio:
+Proyectos, writeups y análisis disponibles en este repositorio:
 👉 **[portafolio-ciberseguridad](https://github.com/eduardovergara-cyber/portafolio-ciberseguridad)**
 
 ---
@@ -45,7 +55,3 @@ Mis proyectos, informes y análisis de casos disponibles en el repositorio:
 - **LinkedIn:** [linkedin.com/in/eduardo-vergara-ciberseguridad](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad)
 - **Email:** eduardovergara0403@gmail.com
 - **Ubicación:** Santiago, Chile
-
----
-
-> *"La ciberseguridad no es un área de soporte: es parte central del riesgo operacional moderno."*
