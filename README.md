@@ -1,23 +1,22 @@
 # 👋 Hola, soy Eduardo Vergara
 
-Estudiante de **Ingeniería en Ciberseguridad** en INACAP (2° año), enfocado en **Seguridad Ofensiva y Pentesting**.
+Estudiante de **Ingeniería en Ciberseguridad** en INACAP (2° año), enfocado en **GRC**.
 Construyo mi portafolio técnico resolviendo máquinas, documentando el proceso y aprendiendo en público mientras avanzo en mi formación.
 
 ---
 
 ## 🎯 Áreas de enfoque
 
-- **Pentesting web e infraestructura:** metodología de enumeración, explotación de configuraciones inseguras, escalada de privilegios
+- **Dominios de ISC2 CC: ** Dominios 1 3 y 5
 - **Fundamentos de redes:** TCP/IP, subneteo, modelo OSI
 - **Sistemas Linux:** administración y uso ofensivo (Parrot OS, Ubuntu)
 - **Contexto complementario:** nociones de gobernanza y cumplimiento (ISO/IEC 27001, NIST CSF) — útiles para entender el impacto de negocio detrás de una vulnerabilidad, no mi área de especialización
-
+- **Fundamentos de marcos regulatorios; ** NIST, ISO 27001 
 ---
 
 ## 🛠️ Stack técnico
 
-- **Sistemas:** Linux (Parrot OS, Ubuntu), Windows
-- **Redes y seguridad:** Nmap, Wireshark, TCP/IP, subneteo
+- **Sistemas:** Linux (Parrot OS, Ubuntu), Window
 - **Programación y scripting:** Python (intermedio), Bash (básico), SQL, HTML
 - **Bases de datos:** SQL, MongoDB
 - **Cloud:** AWS básico (EC2, gestión de instancias)
@@ -27,17 +26,16 @@ Construyo mi portafolio técnico resolviendo máquinas, documentando el proceso 
 
 ## 🚩 En progreso
 
-- **HackTheBox** — resolviendo la ruta Starting Point (Fawn y Cap completadas)
-- Escribiendo writeups de cada máquina en este repositorio a medida que avanzo
-- Próximo objetivo: completar Starting Point Tier 1 y 2, luego máquinas Easy con foco en Active Directory
+- **Marcos Regulatorios**
+- ISO 27001
+- NIST
+- ISC2 CC
 
 ---
 
 ## 🎓 Formación y certificaciones
 
 - **Ingeniería en Ciberseguridad (en curso)** — INACAP, 2024-actualidad. Título Técnico en Analista Programador en trámite (práctica profesional pendiente)
-- **Cisco Networking Academy — Introduction to Cybersecurity** — en progreso (gratuito)
-- Próximas certificaciones planificadas una vez tenga ingreso estable: eJPT / PNPT, y más adelante OSCP
 
 ---
 
