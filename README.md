@@ -1,17 +1,17 @@
 # 👋 Hola, soy Eduardo Vergara
 
-Estudiante de **Ingeniería en Ciberseguridad** en INACAP (2° año), enfocado en **GRC**.
-Construyo mi portafolio técnico resolviendo máquinas, documentando el proceso y aprendiendo en público mientras avanzo en mi formación.
+Estudiante en Ciberseguridad | Futuro pentester | Linux, bash, python
 
 ---
 
 ## 🎯 Áreas de enfoque
 
-- **Dominios de ISC2 CC: ** Dominios 1 3 y 5
-- **Fundamentos de redes:** TCP/IP, subneteo, modelo OSI
-- **Sistemas Linux:** administración y uso ofensivo (Parrot OS, Ubuntu)
-- **Contexto complementario:** nociones de gobernanza y cumplimiento (ISO/IEC 27001, NIST CSF) — útiles para entender el impacto de negocio detrás de una vulnerabilidad, no mi área de especialización
-- **Fundamentos de marcos regulatorios; ** NIST, ISO 27001 
+- Seguridad ofensiva y pentesting: enumeración y explotación en laboratorios de HackTheBox
+- Redes: TCP/IP, subneteo, modelo OSI y análisis con Wireshark
+- Administración Linux (Parrot OS, Ubuntu)
+- Automatización con Python y Bash
+- Cloud: AWS (nivel básico, en aprendizaje
+
 ---
 
 ## 🛠️ Stack técnico
@@ -21,21 +21,6 @@ Construyo mi portafolio técnico resolviendo máquinas, documentando el proceso 
 - **Bases de datos:** SQL, MongoDB
 - **Cloud:** AWS básico (EC2, gestión de instancias)
 - **Otras herramientas:** Git, VirtualBox
-
----
-
-## 🚩 En progreso
-
-- **Marcos Regulatorios**
-- ISO 27001
-- NIST
-- ISC2 CC
-
----
-
-## 🎓 Formación y certificaciones
-
-- **Ingeniería en Ciberseguridad (en curso)** — INACAP, 2024-actualidad. Título Técnico en Analista Programador en trámite (práctica profesional pendiente)
 
 ---
 
