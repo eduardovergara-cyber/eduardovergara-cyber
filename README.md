@@ -5,19 +5,30 @@
 Me especializo en **seguridad de sistemas Linux**: configurar, endurecer y automatizar servidores de forma segura y reproducible.
 Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Soporte de Infraestructura**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Vergara-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad)
+
 ---
 
 ## 🔐 Qué hago
 
 - 🐧 **Linux en el día a día**: uso Arch Linux y Parrot OS como sistemas principales, configurados desde cero con bspwm
-- 🧩 **Fundamentos de seguridad en Linux**: permisos, setuid, cron, SSH, redes y secretos en Git; completé los 33 niveles de OverTheWire Bandit
-- 🐍 **Automatización**: Python (mi lenguaje más fuerte, usado en proyectos académicos) y Bash
+- 🧩 **Seguridad en Linux**: permisos, setuid, cron, SSH, redes y secretos en Git; completé los 33 niveles de OverTheWire Bandit
+- 🐍 **Automatización**: Python (mi lenguaje más fuerte) y Bash
 
-## 📌 Proyectos
+## 🎯 En lo que estoy ahora
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [overthewire-bandit](https://github.com/eduardovergara-cyber/overthewire-bandit) | Bandit completo (0 → 33): conceptos de seguridad en Linux y por qué importan | Linux · SSH · Bash · Git |
+- 🔨 Construyendo **ssh-log-analyzer**, mi primera herramienta de seguridad en Python
+- 📦 Publicando la configuración de mi entorno bspwm (Arch y Parrot)
+- 📚 Preparando la certificación **LPIC-1** / **RHCSA**
+
+## 📂 Proyectos
+
+| Proyecto | Qué es | Tecnologías | Estado |
+|----------|--------|-------------|--------|
+| [**overthewire-bandit**](https://github.com/eduardovergara-cyber/overthewire-bandit) | Bandit completo (0 → 33): conceptos de seguridad en Linux y por qué importan | Linux · SSH · Bash · Git | ✅ Completo |
+| **dotfiles-bspwm** | Mi entorno de trabajo en Arch y Parrot: bspwm, sxhkd, polybar | Linux · Bash | 🔨 Próximamente |
+| **ssh-log-analyzer** | Analiza `auth.log` y detecta intentos de fuerza bruta por SSH | Python | 🔨 En desarrollo |
+| **linux-audit** | Audita usuarios, servicios, puertos y permisos de un servidor y genera un reporte | Bash | 📋 Planificado |
 
 ## 🛠️ Stack
 
@@ -25,18 +36,13 @@ Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Sop
 |------|-------------|
 | **Sistemas** | Arch Linux, Parrot OS, Rocky Linux, Ubuntu, Windows |
 | **Lenguajes** | Python, Bash, SQL |
-| **Seguridad** | Nmap, Wireshark, SSH |
+| **Seguridad** | Nmap, Wireshark, SSH, netcat, OpenSSL |
 | **Herramientas** | Git, VMware Workstation, bspwm |
 
-## 🚀 En construcción
-
-- **ssh-log-analyzer**: herramienta en Python que analiza `auth.log` y detecta intentos de fuerza bruta
-- **linux-audit**: script en Bash que audita usuarios, servicios, puertos y permisos de un servidor
-
-## 🗺️ Próximos pasos
+## 🗺️ Ruta de aprendizaje
 
 Hardening de Rocky Linux con Ansible (Lynis antes/después) → Docker → certificación **LPIC-1** o **RHCSA**
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Vergara-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad)
+¿Te interesa mi perfil? Escríbeme por [LinkedIn](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad).
