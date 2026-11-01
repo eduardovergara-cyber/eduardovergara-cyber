@@ -45,4 +45,4 @@ Proyectos, writeups y análisis: [portafolio-ciberseguridad](https://github.com/
 
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad) · ✉️ vergaraeduardo34@gmail.com · Santiago, Chile
+[LinkedIn](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad) · Santiago, Chile
