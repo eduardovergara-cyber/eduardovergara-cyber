@@ -1,48 +1,42 @@
-# 👋 Hola, soy Eduardo Vergara
+# Hola, soy Eduardo Vergara 👋
 
-**Linux & Cloud Infrastructure** · Estudiante de Ingeniería en Ciberseguridad (INACAP) · Santiago, Chile 🇨🇱
+**Estudiante de Ingeniería en Ciberseguridad (INACAP)** · Santiago, Chile 🇨🇱
 
-Busco mi primer rol como **Junior SysAdmin Linux / Soporte de Infraestructura / Junior Cloud**.
-Me enfoco en administrar servidores Linux de forma segura, reproducible y automatizada: configuración, hardening, monitoreo y despliegue en la nube.
+Me especializo en **seguridad de sistemas Linux**: configurar, endurecer y automatizar servidores de forma segura y reproducible.
+Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Soporte de Infraestructura**.
 
 ---
 
-## 🎯 Enfoque
+## 🔐 Qué hago
 
-- 🐧 **Administración Linux** en familias RHEL (Rocky) y Debian/Ubuntu: usuarios, permisos, systemd, almacenamiento (LVM), redes, firewall (firewalld/ufw), SELinux
-- 🔒 **Hardening con evidencia medible**: auditorías antes/después con Lynis y OpenSCAP
-- ⚙️ **Automatización e Infraestructura como Código**: Bash, Python y Ansible
-- ☁️ **Cloud**: desplegar y asegurar servidores Linux en la nube (en aprendizaje)
-- 🧪 **Laboratorio propio** en VMware Workstation para practicar escenarios reales
+- 🐧 **Linux en el día a día**: uso Arch Linux y Parrot OS como sistemas principales, configurados desde cero con bspwm
+- 🧩 **Fundamentos de seguridad en Linux**: permisos, setuid, cron, SSH, redes y secretos en Git; completé los 33 niveles de OverTheWire Bandit
+- 🐍 **Automatización**: Python (mi lenguaje más fuerte, usado en proyectos académicos) y Bash
 
-## 🛠️ Stack técnico
+## 📌 Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [overthewire-bandit](https://github.com/eduardovergara-cyber/overthewire-bandit) | Bandit completo (0 → 33): conceptos de seguridad en Linux y por qué importan | Linux · SSH · Bash · Git |
+
+## 🛠️ Stack
 
 | Área | Tecnologías |
 |------|-------------|
-| **Sistemas** | Rocky Linux, Ubuntu, Debian/Parrot, Arch, Windows |
-| **Automatización** | Bash, Python, Ansible |
-| **Seguridad** | Lynis, OpenSCAP, Nmap, Wireshark, SSH hardening |
-| **Herramientas** | Git, GitHub, VMware Workstation, SQL |
-| **Aprendiendo** | Docker, Terraform, AWS, monitoreo (Prometheus/Grafana) |
+| **Sistemas** | Arch Linux, Parrot OS, Rocky Linux, Ubuntu, Windows |
+| **Lenguajes** | Python, Bash, SQL |
+| **Seguridad** | Nmap, Wireshark, SSH |
+| **Herramientas** | Git, VMware Workstation, bspwm |
 
-## 🚧 Proyectos en curso
+## 🚀 En construcción
 
-- [ ] **linux-audit** — Script en Bash que audita un servidor (usuarios, servicios, puertos, permisos) y genera un reporte
-- [ ] **ssh-log-analyzer** — Herramienta en Python que analiza `auth.log`/`secure` y detecta intentos de fuerza bruta
-- [ ] **rocky-hardening-ansible** — Playbooks de Ansible para hardening de Rocky Linux, con resultados de Lynis antes/después
-- [ ] **cloud-linux-lab** — Despliegue de un servidor Linux en la nube con Terraform + Ansible
+- **ssh-log-analyzer**: herramienta en Python que analiza `auth.log` y detecta intentos de fuerza bruta
+- **linux-audit**: script en Bash que audita usuarios, servicios, puertos y permisos de un servidor
 
-## 🗺️ Ruta de aprendizaje
+## 🗺️ Próximos pasos
 
-- [ ] Certificación **LPIC-1** o **RHCSA**
-- [ ] Contenedores con **Docker**
-- [ ] Infraestructura como código con **Terraform**
-- [ ] Certificación cloud de nivel inicial (**AWS Cloud Practitioner** o equivalente)
-
-## 📚 Portafolio
-
-Proyectos, writeups y análisis: [portafolio-ciberseguridad](https://github.com/eduardovergara-cyber/portafolio-ciberseguridad)
+Hardening de Rocky Linux con Ansible (Lynis antes/después) → Docker → certificación **LPIC-1** o **RHCSA**
 
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad) · Santiago, Chile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Vergara-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad)
