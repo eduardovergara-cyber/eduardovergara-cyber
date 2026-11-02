@@ -18,7 +18,7 @@ Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Sop
 ## 🎯 En lo que estoy ahora
 
 - 🔨 Construyendo **ssh-log-analyzer**, mi primera herramienta de seguridad en Python
-- 📦 Publicando la configuración de mi entorno bspwm (Arch y Parrot)
+- 📦 Completando mis [dotfiles de bspwm](https://github.com/eduardovergara-cyber/dotfiles-bspwm) (polybar y picom)
 - 📚 Preparando la certificación **LPIC-1** / **RHCSA**
 
 ## 📂 Proyectos
@@ -26,7 +26,7 @@ Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Sop
 | Proyecto | Qué es | Tecnologías | Estado |
 |----------|--------|-------------|--------|
 | [**overthewire-bandit**](https://github.com/eduardovergara-cyber/overthewire-bandit) | Bandit completo (0 → 33): conceptos de seguridad en Linux y por qué importan | Linux · SSH · Bash · Git | ✅ Completo |
-| **dotfiles-bspwm** | Mi entorno de trabajo en Arch y Parrot: bspwm, sxhkd, polybar | Linux · Bash | 🔨 Próximamente |
+| [**dotfiles-bspwm**](https://github.com/eduardovergara-cyber/dotfiles-bspwm) | Mi entorno de trabajo en Arch y Parrot: bspwm, sxhkd, kitty y rofi | Linux · Bash | 🔨 En progreso |
 | **ssh-log-analyzer** | Analiza `auth.log` y detecta intentos de fuerza bruta por SSH | Python | 🔨 En desarrollo |
 | **linux-audit** | Audita usuarios, servicios, puertos y permisos de un servidor y genera un reporte | Bash | 📋 Planificado |
 
