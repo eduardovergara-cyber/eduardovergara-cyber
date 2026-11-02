@@ -2,8 +2,8 @@
 
 **Estudiante de Ingeniería en Ciberseguridad (INACAP)** · Santiago, Chile 🇨🇱
 
-Me especializo en **seguridad de sistemas Linux**: configurar, endurecer y automatizar servidores de forma segura y reproducible.
-Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Soporte de Infraestructura**.
+Me enfoco en **seguridad de sistemas Linux y AWS**: configurar, endurecer y automatizar servidores de forma segura y reproducible.
+Busco mi primer rol como **Junior SysAdmin Linux**, **Soporte de Infraestructura** o **Junior Cloud (AWS)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Vergara-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-vergara-ciberseguridad)
 
@@ -19,7 +19,7 @@ Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Sop
 
 - 🔨 Construyendo **ssh-log-analyzer**, mi primera herramienta de seguridad en Python
 - 📦 Completando mis [dotfiles de bspwm](https://github.com/eduardovergara-cyber/dotfiles-bspwm) (polybar y picom)
-- 📚 Preparando la certificación **LPIC-1** / **RHCSA**
+- ☁️ Aprendiendo **AWS**
 
 ## 📂 Proyectos
 
@@ -36,12 +36,13 @@ Busco mi primer rol como **Junior SysAdmin Linux con foco en seguridad** o **Sop
 |------|-------------|
 | **Sistemas** | Arch Linux, Parrot OS, Rocky Linux, Ubuntu, Windows |
 | **Lenguajes** | Python, Bash, SQL |
+| **Cloud** | AWS (EC2, nivel básico) |
 | **Seguridad** | Nmap, Wireshark, SSH, netcat, OpenSSL |
 | **Herramientas** | Git, VMware Workstation, bspwm |
 
 ## 🗺️ Ruta de aprendizaje
 
-Hardening de Rocky Linux con Ansible (Lynis antes/después) → Docker → certificación **LPIC-1** o **RHCSA**
+Hardening de Rocky Linux con Ansible (Lynis antes/después) → Docker → despliegue de servidores Linux en **AWS**
 
 ## 📫 Contacto
 
